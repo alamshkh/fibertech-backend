@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiberTechHR.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+629b1cf635cd5b02d0c777410c60958c56a73b8d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiberTechHR.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiberTechHR.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
